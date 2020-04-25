@@ -18,7 +18,7 @@ email: temporary@email.com
 description: >- # this means to ignore newlines until "baseurl:"
   My notes, thoughts and exercises on economics.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://minguet.github.io/notes-on-econ" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  minguet
 show_excerpts: true
