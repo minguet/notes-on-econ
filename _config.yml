@@ -17,7 +17,7 @@ title: Notes on Economics
 email: temporary@email.com
 description: >- # this means to ignore newlines until "baseurl:"
   My notes, thoughts and exercises on economics.
-baseurl: "/notes-on-econ" # the subpath of your site, e.g. /blog
+baseurl: "/notes-on-economics" # the subpath of your site, e.g. /blog
 url: "https://minguet.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  minguet
 show_excerpts: true
